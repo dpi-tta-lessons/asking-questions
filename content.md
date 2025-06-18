@@ -48,7 +48,7 @@ my_name = "Ian"
 
 Isn't that nice?
 
-This is the #1 way to impress your instructors and TAs when asking questions. It makes it much easier to help when you ask a question.  
+This is the #1 way to impress your instructors and TAs when asking questions. It makes it much easier for us to help when you ask a question.
 
 ## Conclusion
 
